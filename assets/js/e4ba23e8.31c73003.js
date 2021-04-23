@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[31],{102:function(o){o.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"CI com Docker, Nginx e Jenkins","permalink":"/blog/docker_and_jenkins"},{"title":"Portfolio contruido com React e GitHub API","permalink":"/blog/portfolio_react"}]}')}}]);
